@@ -1,3 +1,7 @@
 geobr
 matplotlib
 plotly
+numpy
+streamlit
+pandas
+altair
